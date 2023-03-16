@@ -47,3 +47,10 @@ The list of tools to use for Python are:
 
 - Error : Bad indentation, trailing newlines, missing modules
 - Rating : 3.21/10
+
+2. File : Day012-Number_Guessing_Game
+
+![image](https://user-images.githubusercontent.com/124191847/225568298-123e4aae-a686-4595-bdbd-6c6950f0a1d3.png)
+
+- Error : Some of the errors are Bad indentation, Trailing whitespace, Trailing newlines, Missing module docstring, missing function and unecessary elif after return
+- Rating : 0.00/10

@@ -48,7 +48,7 @@ The list of tools to use for Python are:
 
 ![image](https://user-images.githubusercontent.com/124191847/225566524-afc22bd4-04d3-4c3a-be11-54c5b89d407f.png)
 
-- Error : The errors are Bad indentation, trailing newlines, missing modules
+- Error : The errors are Bad indentation, trailing newlines, missing modules, invalid name
 - Rating : 3.21/10
 
 2. File : Day012-Number_Guessing_Game

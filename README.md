@@ -28,3 +28,7 @@ The list of tools to use for Python are:
 
 # The tool that I used is Pylint
 
+# Installation of Pylint in terminal
+
+- To install pylint in the system, we have to use the command - pip install pylint
+

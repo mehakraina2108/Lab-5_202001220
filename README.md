@@ -1,7 +1,6 @@
 # Lab-5_202001220
 **************************
 # Static Analysis:
-*************************
 Static analysis is a method of examining the source code of a software program without
 executing it. Static analysis can help detect errors, bugs, vulnerabilities, and other quality issues
 in the code. Static analysis tools can perform various tasks such as checking syntax, style,
@@ -17,4 +16,5 @@ code, such as complexity, readability, maintainability, test coverage, and docum
 analysis tools can be integrated into the development process as part of the code editor, the
 version control system, or the continuous integration pipeline. Some examples of static analysis
 tools are SonarQube, PMD, ESLint, and Pylint.
+********************************
 

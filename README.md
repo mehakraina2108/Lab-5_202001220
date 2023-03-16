@@ -32,3 +32,6 @@ The list of tools to use for Python are:
 
 - To install pylint in the system, we have to use the command - pip install pylint
 
+![image](https://user-images.githubusercontent.com/124191847/225564467-2e25f67d-61c9-4e80-ba38-83c051b4313c.png)
+
+

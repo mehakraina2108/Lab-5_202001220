@@ -62,7 +62,7 @@ The list of tools to use for Python are:
 
 ![image](https://user-images.githubusercontent.com/124191847/225569740-9c13e00f-3253-48fc-ba73-8618ebb43ced.png)
 
-- Error : The errors are missing module docstring, constant name, unecessary else after return
+- Error : The errors are missing module docstring, invalid name, unecessary else after return
 - Rating : 6.59/10
 
 4. Day009-Silent_Auction

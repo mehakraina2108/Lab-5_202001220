@@ -38,3 +38,12 @@ The list of tools to use for Python are:
 - After installing pyint, I selected a github repository.
 - Next, I analyzed some of its files.
 - The link of the github repository is : https://github.com/LeeRenJie/100-days-of-code-in-python
+
+# Analyzing files from the repository
+
+1. File : Day005-Random_Password_Generator
+
+![image](https://user-images.githubusercontent.com/124191847/225566524-afc22bd4-04d3-4c3a-be11-54c5b89d407f.png)
+
+- Error : Bad indentation, trailing newlines, missing modules
+- Rating : 3.21/10

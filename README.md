@@ -76,4 +76,16 @@ The list of tools to use for Python are:
 - Error : The errors are missing module and invalid name
 - Rating : 7.14/10
 
-6. 
+6. Day010-Basic-Calculator
+
+![image](https://user-images.githubusercontent.com/124191847/225571757-e9f0f8d5-cfc6-4877-9639-366a56e3cbbb.png)
+
+- Error : The errors are Bad indentation, Trailing whitespace, Missing module docstring, unable to import modules, Missing function or method docstring
+- Rating : 0.00/10
+
+7. Day007-Hangman_Game
+
+![image](https://user-images.githubusercontent.com/124191847/225572892-bba06724-f013-44f7-9deb-8e1304b3fe3d.png)
+
+- Error : The errors are Bad indentation, Trailing whitespace, Missing module docstring, unable to import module and invalid name
+- Rating : 2.81/10

@@ -18,13 +18,13 @@ version control system, or the continuous integration pipeline. Some examples of
 tools are SonarQube, PMD, ESLint, and Pylint.
 ********************************
 The list of tools to use for Python are:
-● Mypy
-● Pylint
-● Pyflakes
-● Pycodestyle (pep8)
-● Flake8
-● Prospector
-● Bandit
+- Mypy
+- Pylint
+- Pyflakes
+- Pycodestyle (pep8)
+- Flake8
+- Prospector
+- Bandit
 
-# The tool that I will use is Pylint
+# The tool that I used is Pylint
 

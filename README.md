@@ -66,4 +66,14 @@ The list of tools to use for Python are:
 
 ![image](https://user-images.githubusercontent.com/124191847/225570411-f6b731e4-4728-4aad-9180-3eae7c371fc0.png)
 
-Error
+- Error : The errors are Bad indentation, Trailing whitespace, Missing module docstring, unable to import some modules, missing functions
+- Rating : 0.00/10
+
+5. Day002-Tip_CalculatorInRM
+
+![image](https://user-images.githubusercontent.com/124191847/225571177-38bda69b-01a3-4b34-8819-b7eaa9af424f.png)
+
+- Error : The errors are missing module and invalid name
+- Rating : 7.14/10
+
+6. 

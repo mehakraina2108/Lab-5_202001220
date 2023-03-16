@@ -29,7 +29,7 @@ The list of tools to use for Python are:
 - Prospector
 - Bandit
 
-# The tool that I used is Pylint
+# The tool that I used for Python is Pylint
 
 # Installation of Pylint in terminal
 

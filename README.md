@@ -8,4 +8,13 @@ in the code. Static analysis tools can perform various tasks such as checking sy
 logic, data flow, control flow, and security. Static analysis can improve the reliability,
 performance, and maintainability of software by identifying and correcting defects early in the
 development process.
-*************************
+
+# Static Analysis Tools:
+Static analysis tools are software tools that analyze the source code of a program without
+executing it. They can help developers find and fix errors, bugs, vulnerabilities, code smells, and
+other quality issues in their code. Static analysis tools can also measure various metrics of the
+code, such as complexity, readability, maintainability, test coverage, and documentation. Static
+analysis tools can be integrated into the development process as part of the code editor, the
+version control system, or the continuous integration pipeline. Some examples of static analysis
+tools are SonarQube, PMD, ESLint, and Pylint.
+

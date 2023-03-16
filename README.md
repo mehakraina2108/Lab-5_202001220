@@ -54,3 +54,16 @@ The list of tools to use for Python are:
 
 - Error : Some of the errors are Bad indentation, Trailing whitespace, Trailing newlines, Missing module docstring, missing function and unecessary elif after return
 - Rating : 0.00/10
+
+3. Day015-Coffee_Machine
+
+![image](https://user-images.githubusercontent.com/124191847/225569740-9c13e00f-3253-48fc-ba73-8618ebb43ced.png)
+
+- Error : The errors are missing module docstring, constant name, unecessary else after return
+- Rating : 6.59/10
+
+4. Day009-Silent_Auction
+
+![image](https://user-images.githubusercontent.com/124191847/225570411-f6b731e4-4728-4aad-9180-3eae7c371fc0.png)
+
+Error

@@ -1,4 +1,7 @@
 # Lab-5_202001220
+
+- Name : Mehak Raina
+- Student Id- 202001220
 **************************
 # Static Analysis:
 Static analysis is a method of examining the source code of a software program without
@@ -45,7 +48,7 @@ The list of tools to use for Python are:
 
 ![image](https://user-images.githubusercontent.com/124191847/225566524-afc22bd4-04d3-4c3a-be11-54c5b89d407f.png)
 
-- Error : Bad indentation, trailing newlines, missing modules
+- Error : The errors are Bad indentation, trailing newlines, missing modules
 - Rating : 3.21/10
 
 2. File : Day012-Number_Guessing_Game
